@@ -56,7 +56,7 @@ Precision-Recall Curve (output/precision_recall_curve.png)
 (Optional) Feature Importance Chart
 
 <!-- 🚀 Usage Clone this repository: -->
-bashgit clone https://github.com/your-username/your-repository.git
+bashgit clone https://github.com/12436894/IoMT_framework.git
 cd your-repository
 Add your dataset:
 
